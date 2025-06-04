@@ -2,7 +2,7 @@
 
 **Campgrounds** is a full-stack web application that allows users to browse, create, edit, and review campgrounds. Inspired by the popular YelpCamp project, this app is built using Node.js, Express, MongoDB, and EJS. Users can register, log in, add new campsites, and leave reviews.
 
-![Campgrounds Screenshot](https://via.placeholder.com/1000x400?text=Campgrounds+App+Screenshot)
+![Campgrounds Screenshot](https://res.cloudinary.com/vijayvaddi/image/upload/v1749042421/vci5r2f5g1uryjwqy8ig.jpg)
 
 ---
 
@@ -30,13 +30,3 @@
 - **Middleware:** Express-session, connect-flash, method-override
 
 ---
-
-## 🧑‍💻 How to Run This Project Locally
-
-Follow the steps below to get the Campgrounds app running on your local machine:
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/vijayvaddi11/Campgrounds.git
-cd Campgrounds
