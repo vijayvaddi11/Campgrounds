@@ -2,11 +2,21 @@
 
 **Campgrounds** is a full-stack web application that allows users to browse, create, edit, and review campgrounds. Inspired by the popular YelpCamp project, this app is built using Node.js, Express, MongoDB, and EJS. Users can register, log in, add new campsites, and leave reviews.
 
-![Campgrounds Screenshot](https://res.cloudinary.com/vijayvaddi/image/upload/v1749042421/vci5r2f5g1uryjwqy8ig.jpg)
-
 ---
 
-## 🚀 Features
+https://res.cloudinary.com/vijayvaddi/image/upload/v1749043076/dltwdtesck9f5bpykrbp.png
+
+---
+## Input validation and error handling.
+https://res.cloudinary.com/vijayvaddi/image/upload/v1749043067/shbaavlq0lkuxum9mfwk.png
+
+
+---
+## Campgrounds: Explore, leave a Review, and Share Campgrounds
+https://res.cloudinary.com/vijayvaddi/image/upload/v1749043057/izguqj5q61h4wr4h6rmu.png
+
+
+## 🚀 Features 
 
 - User authentication (register/login/logout)
 - Create, edit, and delete campgrounds
