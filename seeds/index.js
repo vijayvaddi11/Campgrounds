@@ -27,7 +27,7 @@ const seedDB = async () => {
         'a wonderful campground to vist with friends and family, beautiful locations on surrounding .perfect for camping',
       price: price
     });
-    await camp.save();
+    await camp.save(); 
   }
 };
 
