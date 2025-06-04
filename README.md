@@ -21,13 +21,13 @@
 
 
 ---
-
-![Input validation and error handling.](https://res.cloudinary.com/vijayvaddi/image/upload/v1749043067/shbaavlq0lkuxum9mfwk.png)
+## Input validation and error handling.
+![Image](https://res.cloudinary.com/vijayvaddi/image/upload/v1749043067/shbaavlq0lkuxum9mfwk.png)
 
 
 ---
 ## Campgrounds: Explore, leave a Review, and Share Campgrounds
-https://res.cloudinary.com/vijayvaddi/image/upload/v1749043057/izguqj5q61h4wr4h6rmu.png
+![Image](https://res.cloudinary.com/vijayvaddi/image/upload/v1749043057/izguqj5q61h4wr4h6rmu.png)
 
 
 
