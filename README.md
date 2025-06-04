@@ -33,3 +33,15 @@
 
 ## 📁 Project Structure
 
+Campgrounds/
+│
+├── models/ # Mongoose schemas
+├── routes/ # Express route definitions
+├── views/ # EJS templates
+├── public/ # Static files (CSS, JS)
+├── seeds/ # Seed database scripts
+├── utils/ # Reusable utilities
+├── app.js # Main server file
+├── middleware.js # Custom middleware functions
+├── schemas.js # Joi validation schemas
+└── package.json # Project metadata and dependencies
