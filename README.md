@@ -31,17 +31,12 @@
 
 ---
 
-## 📁 Project Structure
+## 🧑‍💻 How to Run This Project Locally
 
-Campgrounds/
-│
-├── models/ # Mongoose schemas
-├── routes/ # Express route definitions
-├── views/ # EJS templates
-├── public/ # Static files (CSS, JS)
-├── seeds/ # Seed database scripts
-├── utils/ # Reusable utilities
-├── app.js # Main server file
-├── middleware.js # Custom middleware functions
-├── schemas.js # Joi validation schemas
-└── package.json # Project metadata and dependencies
+Follow the steps below to get the Campgrounds app running on your local machine:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/vijayvaddi11/Campgrounds.git
+cd Campgrounds
