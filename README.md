@@ -47,11 +47,15 @@
 
 ## 🧑‍💻 How to Run Locally
 
-1. **Clone the repository:**
 
 ```bash
+1. **Clone the repository:**
+
 git clone https://github.com/vijayvaddi11/Campgrounds.git
 cd Campgrounds
+
+
+
 
 2. **Install dependencies:**
 
