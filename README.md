@@ -27,22 +27,6 @@
 - **Templating Engine:** EJS
 - **Middleware:** Express-session, connect-flash, method-override
 
----
-## Home Page of Campgrounds after register
-![Campgrounds Screenshot](https://res.cloudinary.com/vijayvaddi/image/upload/v1749043076/dltwdtesck9f5bpykrbp.png)
-
-
-
----
-## Input validation and error handling.
-![Image](https://res.cloudinary.com/vijayvaddi/image/upload/v1749043067/shbaavlq0lkuxum9mfwk.png)
-
-
----
-## Campgrounds: Explore, leave a Review, and Share Campgrounds
-![Image](https://res.cloudinary.com/vijayvaddi/image/upload/v1749043057/izguqj5q61h4wr4h6rmu.png)
-
-
 
 ---
 
@@ -55,7 +39,7 @@
 git clone https://github.com/vijayvaddi11/Campgrounds.git
 cd Campgrounds
 
-
+```
 
 
 2. **Install dependencies:**
