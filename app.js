@@ -9,6 +9,7 @@ const methodOverride = require('method-override');
 const passport = require('passport');
 const LocalStrategy = require('passport-local');
 const User = require('./models/user');
+import seedRoute from "./routes/seedRoute.js";
 
 
 const UserRoutes = require('./routes/users');
@@ -25,6 +26,7 @@ async function main() {
 
 const app = express();
 
+app.use("/api", seedRoute);
 app.engine('ejs', ejsMate);
 app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, 'views'));
