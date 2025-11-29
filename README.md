@@ -66,7 +66,6 @@ npm install
 ```
 
 3. **Set up environment variables:**
-4. 
 Create a .env file in the root directory with the following content:
 ```bash
 DATABASE_URL=mongodb://localhost:27017/campgrounds
